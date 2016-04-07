@@ -2,6 +2,11 @@
 A handpicked directory of front end resources &amp; tools by [@paulbremer_](https://twitter.com/paulbremer_)
 
 
+HTML
+----------
+* [Dive into HTML5](http://diveintohtml5.info/) - Elaborates on features from the HTML5 specification
+
+
 Javascript
 ----------
 * [jQuery](https://jquery.com/) - jQuery: The Write Less, Do More, JavaScript Library
@@ -30,9 +35,16 @@ Online tools
 * [CodePen](http://codepen.io/) - Front End Developer Playground & Code Editor
 
 
+Performance
+----------
+* [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - Analyze and optimize your site following web best practices
+* [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Analyze the load speed of your websites, and learn how to make them faster
+
+
 Photography
 ----------
 * [Unsplash](https://unsplash.com/) - Free (do whatever you want) high-resolution photos
+* [Pexels](https://www.pexels.com/) - Best free stock photos in one place
 
 
 Learning
