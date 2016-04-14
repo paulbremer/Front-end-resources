@@ -35,10 +35,20 @@ Online tools
 * [CodePen](http://codepen.io/) - Front End Developer Playground & Code Editor
 
 
+Analytics
+----------
+* [Google Analytics](https://analytics.google.com/analytics/web/) - web analytics service by Google
+* [Optimizely](http://optimizely.com) - A/B testing and personalization for the web and mobile apps
+* [Smartlook](https://www.getsmartlook.com/) - Record everything visitors do on your site
+* [Pingdom](https://www.pingdom.com/) - Website monitoring
+
+
 Performance
 ----------
 * [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - Analyze and optimize your site following web best practices
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Analyze the load speed of your websites, and learn how to make them faster
+* [Cloudflare](https://www.cloudflare.com/) - Global CDN, DNS, DDoS protection & web security provider that can speed up and protect any site online
+* [Pingdom](http://tools.pingdom.com/) - Pingdom Website Speed Test
 
 
 Photography
